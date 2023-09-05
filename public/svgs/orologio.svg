@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="200"
+   height="200"
+   viewBox="0 0 52.916664 52.916667"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="orologio.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.8044052"
+     inkscape:cx="100.37779"
+     inkscape:cy="75.417062"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true">
+    <sodipodi:guide
+       position="22.831638,41.312156"
+       orientation="1,0"
+       id="guide4"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-25.473315,29.896337"
+       orientation="1,0"
+       id="guide5"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.642312,26.405549"
+       orientation="1,0"
+       id="guide6"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="9.7175979,25.08471"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="44.248091,25.179056"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="26.982845,41.783884"
+       orientation="1,0"
+       id="guide3"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="26.888499,8.6685733"
+       orientation="1,0"
+       id="guide7"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Livello 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2"
+       style="fill:#ffffff;fill-opacity:0;stroke:#a8a8a8;stroke-width:3.00197"
+       d="M 42.578943,27.921967 A 15.700708,15.181983 0 0 1 26.878236,43.103953 15.700708,15.181983 0 0 1 11.177527,27.921967 15.700708,15.181983 0 0 1 26.878236,12.739985 15.700708,15.181983 0 0 1 42.578943,27.921967 Z" />
+    <path
+       id="path3"
+       style="fill:#ffffff;fill-opacity:0;stroke:#a8a8a8;stroke-width:2.96344"
+       d="m 30.09171,10.176101 a 3.1266238,2.4553415 0 0 1 -3.126625,2.455341 3.1266238,2.4553415 0 0 1 -3.126624,-2.455341 3.1266238,2.4553415 0 0 1 3.126624,-2.4553416 3.1266238,2.4553415 0 0 1 3.126625,2.4553416 z" />
+    <path
+       style="fill:#a8a8a8;fill-opacity:0;stroke:#a8a8a8;stroke-width:1.09259"
+       d="M 26.888501,28.114992 V 20.472998"
+       id="path8" />
+    <path
+       style="fill:#a8a8a8;fill-opacity:0;stroke:#a8a8a8;stroke-width:0.924339"
+       d="m 26.565153,27.590794 9.232143,6.897825"
+       id="path1" />
+  </g>
+</svg>
