@@ -79,7 +79,7 @@ export const Navbar=()=>{
             costante=0.3
         }
         else{
-            costante=0.5
+            costante=0.3
         }
         const options = {
           root: null,
